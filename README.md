@@ -74,4 +74,3 @@ A mudança de cor vem de um único `hue-rotate` aplicado ao frasco inteiro, que 
 
 [![GitHub](https://img.shields.io/badge/GitHub-evssousa-181717?logo=github&logoColor=white)](https://github.com/evssousa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evssousa-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/evssousa)
-[![Instagram](https://img.shields.io/badge/Instagram-evs.py-E4405F?logo=instagram&logoColor=white)](https://instagram.com/evs.py)
